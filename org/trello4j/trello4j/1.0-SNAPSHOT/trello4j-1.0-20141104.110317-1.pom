@@ -119,7 +119,7 @@
         <id>internal.repo.releaess</id>
         <name>Temporary Staging Repository</name>
         <url>file://${project.build.directory}/mvn-repo/releases</url>
-        </repository>
+   </repository>
 </distributionManagement>
 
 </project>
